@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, TypeScript and Angular.**
 
-- 📫 How to reach me **aquesada.dev@gmail.com**
+- 📫 How to reach me **aquesada.dev@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
