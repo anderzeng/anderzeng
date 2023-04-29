@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Quesada</h1>
-<h3 align="center">Web Developer and Hardware Enthusiast</h3>
+<h3 align="center">Software Developer and Hardware Enthusiast</h3>
 
 - 🔭 I’m currently working on **my personal projects.**
 
