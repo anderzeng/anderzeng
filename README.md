@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anderzeng_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anderzeng_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anderzeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anderzeng" height="30" width="40" /></a>
+<a href="https://twitter.com/aquesadagomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Visit my Twitter account" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aquesadagomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Visit my Linkedin account" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
