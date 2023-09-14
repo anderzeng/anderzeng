@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian Quesada</h1>
-<h3 align="center">Software Developer and Hardware Enthusiast</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **my personal projects.**
-
-- 🌱 I’m currently learning **web technologies (always learning new stuff).**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript and Angular.**
+- 🌱 I’m currently working on **my personal projects** using **web technologies**
 
 - 📫 How to reach me **aquesada.dev@gmail.com.**
 
