@@ -1,3 +1,3 @@
 ## About Me
 
-Software Developer - I enjoy experimenting with new tools and technologies to enhance my skills
+Just a software developer building solutions; another day, another problem, another bug ...
